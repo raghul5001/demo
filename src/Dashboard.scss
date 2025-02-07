@@ -1,0 +1,25 @@
+.wall{
+    width: 500px;
+    height: 500px;
+}
+
+.icon{
+    width: 50px;
+    height: 98px;
+    position: absolute;
+    left: 148px;
+    z-index: 1;
+}
+
+.side-wrap{
+    display: flex;
+        flex-direction: column;
+        height: 100vh;
+        justify-content: space-evenly;
+        background-color: cadetblue;
+        font-size: 20px;
+        color: white;
+        width: 165px;
+        padding: 15px;
+    
+}
